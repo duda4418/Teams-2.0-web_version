@@ -1,0 +1,66 @@
+[33mcommit 0047a5871afbaa2fb35e7abbf9cd6c8e91691959[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: duda4418 <146849849+duda4418@users.noreply.github.com>
+Date:   Tue Jan 30 23:31:58 2024 +0200
+
+    Updating atributes
+
+[33mcommit 5ec8b15f505fdfe81eb392085691828fce854313[m
+Author: Serban David <146849849+duda4418@users.noreply.github.com>
+Date:   Tue Jan 30 23:30:24 2024 +0200
+
+    Update .gitattributes
+
+[33mcommit 0f5886c93d7388df44bd510aa93f6e44f2c56e79[m
+Merge: f0be315 0427292
+Author: duda4418 <146849849+duda4418@users.noreply.github.com>
+Date:   Tue Jan 30 23:29:14 2024 +0200
+
+    Merge branch 'main' of https://github.com/duda4418/Teams-2.0-web_version
+
+[33mcommit f0be315bf773613a86fd21f4180766f806ece411[m
+Author: duda4418 <146849849+duda4418@users.noreply.github.com>
+Date:   Tue Jan 30 23:28:45 2024 +0200
+
+    Slighty Refactoring
+
+[33mcommit 0427292bd95f8978c5a90610972b5fbd3d793c6f[m
+Author: Serban David <146849849+duda4418@users.noreply.github.com>
+Date:   Tue Jan 30 23:25:59 2024 +0200
+
+    Update .gitattributes
+
+[33mcommit 8f9c048890b9ef37b0d6c0598c6a165946615db8[m
+Author: Serban David <146849849+duda4418@users.noreply.github.com>
+Date:   Tue Jan 30 23:24:09 2024 +0200
+
+    Update .gitattributes
+
+[33mcommit 41889d670e10ab284ef51904ac61b92b7e6641f1[m
+Author: Serban David <146849849+duda4418@users.noreply.github.com>
+Date:   Tue Jan 30 23:21:28 2024 +0200
+
+    Update .gitattributes
+
+[33mcommit 3de1a7a5477d51029f568844b769378fff7ae9fb[m
+Author: Serban David <146849849+duda4418@users.noreply.github.com>
+Date:   Tue Jan 30 23:16:49 2024 +0200
+
+    Update README.md
+
+[33mcommit de3921a11510ccaf0407e1bded7fc5979a4b0f1b[m
+Author: Serban David <146849849+duda4418@users.noreply.github.com>
+Date:   Tue Jan 30 23:13:16 2024 +0200
+
+    Update README.md
+
+[33mcommit 39c2592940ab25b9f1a22ddf5350192eb40fd31e[m
+Author: duda4418 <146849849+duda4418@users.noreply.github.com>
+Date:   Tue Jan 30 23:12:15 2024 +0200
+
+    Adding the main components.
+
+[33mcommit c2f3b9b79520398a875aca257ef422cc9e75629e[m
+Author: duda4418 <146849849+duda4418@users.noreply.github.com>
+Date:   Tue Jan 30 22:08:32 2024 +0200
+
+    Initial commit
