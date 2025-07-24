@@ -1,3 +1,4 @@
+import React from 'react';
 import '@mantine/core/styles.css';
 import { MantineProvider, AppShell, Modal, Button, Textarea, AppShellSection, AppShellAside, SimpleGrid, Burger } from '@mantine/core'
 import { Group, Text, Collapse, Box, Skeleton, ScrollArea, TextInput } from '@mantine/core'

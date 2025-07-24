@@ -1,16 +1,33 @@
-export default {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {},
-    'postcss-preset-mantine': {},
-    'postcss-simple-vars': {
-      variables: {
-        'mantine-breakpoint-xs': '36em',
-        'mantine-breakpoint-sm': '48em',
-        'mantine-breakpoint-md': '62em',
-        'mantine-breakpoint-lg': '75em',
-        'mantine-breakpoint-xl': '88em',
-      },
-    },
+{
+  "name": "teams-2.0-web_version",
+  "version": "1.0.0",
+  "description": "Teams 2.0 chatapp web version using react.",
+  "main": "postcss.config.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duda4418/Teams-2.0-web_version.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/duda4418/Teams-2.0-web_version/issues"
+  },
+  "homepage": "https://github.com/duda4418/Teams-2.0-web_version#readme",
+  "dependencies": {
+    "@mantine/core": "^8.2.1",
+    "@mantine/hooks": "^8.2.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "vite": "^7.0.6"
+  }
 }

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { ChatMessage } from './chat_message';
+import { ChatMessage } from './chat-message';
 import { ChatInput } from './chat-input';
 import { DISCUSSION_id, USER_id } from '../constants/constants';
 

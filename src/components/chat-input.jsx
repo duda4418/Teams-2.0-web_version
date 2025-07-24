@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import { Button } from '@mantine/core';
 import { USER_id } from '../constants/constants';
+import React from 'react';
 
 const API = 'http://localhost:8000/api/messages';
 

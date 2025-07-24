@@ -1,4 +1,5 @@
 import { Avatar } from '@mantine/core'
+import React from 'react';
 
 export function ChatMessage({ value, userName, isMe }) {
   return (

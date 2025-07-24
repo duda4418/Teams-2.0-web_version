@@ -1,8 +1,9 @@
 import { MultiSelect } from '@mantine/core';
 import { Badge, Button, Table } from '@mantine/core'
 import { useEffect, useState } from 'react'
-import { ChatDiscussionList } from './chat-discussion_list'
+// import { ChatDiscussionList } from './chat-discussion_list'
 import { USER_id } from '../constants/constants'
+import React from 'react';
 
 const MY_ID = USER_id
 const API = 'http://localhost:8000/api'
